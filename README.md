@@ -1,0 +1,2 @@
+# LeetCode_Practice
+用于提交LeetCode的代码，并熟悉GitHub的使用
