@@ -1,6 +1,6 @@
 package practice;
 
-public class rob {
+public class Rob {
     public int rob(int[] nums) {
         int n = nums.length;
         if (n == 0) return 0;
