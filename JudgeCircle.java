@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class JudgeCircle {
     public boolean judgeCircle(String moves) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class ProductExceptSelf {
     public int[] productExceptSelf(int[] nums) {

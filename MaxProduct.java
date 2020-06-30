@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MaxProduct {
     public int maxProduct(int[] nums) {

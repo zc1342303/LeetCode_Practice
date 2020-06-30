@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class SortArrayByParity {
     public int[] sortArrayByParity(int[] A) {

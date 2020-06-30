@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MaximalSquare {
     public int maximalSquare(char[][] matrix) {

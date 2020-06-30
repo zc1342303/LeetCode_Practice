@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MincostTickets {
     public int mincostTickets(int[] days, int[] costs) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class NextGreatestLetter {
     public char nextGreatestLetter(char[] letters, char target) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class IsPrefixOfWord {
     public int isPrefixOfWord(String sentence, String searchWord) {

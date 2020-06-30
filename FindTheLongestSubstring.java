@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class FindTheLongestSubstring {
     public int findTheLongestSubstring(String s) {

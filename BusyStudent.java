@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class BusyStudent {
     public int busyStudent(int[] startTime, int[] endTime, int queryTime) {

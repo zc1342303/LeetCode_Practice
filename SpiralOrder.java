@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class SpiralOrder {
     public int[] spiralOrder(int[][] matrix) {

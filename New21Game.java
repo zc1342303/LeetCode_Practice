@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class New21Game {
     // ... 15 16 | 17 18 19 20 21 | 22 23 24 25 26 |

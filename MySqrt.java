@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MySqrt {
     public int mySqrt(int x) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class ValidPalindrome {
     public boolean palindrome(String s, int i, int j) {

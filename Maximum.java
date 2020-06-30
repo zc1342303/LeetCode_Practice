@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class Maximum {
     public int maximum(int a, int b) {

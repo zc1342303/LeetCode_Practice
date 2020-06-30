@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class FindLUSlength {
     public int findLUSlength(String a, String b) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class IsSubtree {
     public boolean isSubtree(TreeNode s, TreeNode t) {

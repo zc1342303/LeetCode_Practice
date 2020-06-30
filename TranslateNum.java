@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class TranslateNum {
     public int translateNum(int num) {

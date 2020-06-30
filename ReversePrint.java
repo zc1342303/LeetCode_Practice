@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 import java.util.Stack;
 import java.util.Arrays;

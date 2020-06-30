@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class CountBits {
     public int[] countBits(int num) {

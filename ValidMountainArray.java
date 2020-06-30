@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class ValidMountainArray {
     public boolean validMountainArray(int[] A) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MaxSubArray {
     Status pushUp(Status l, Status r) {

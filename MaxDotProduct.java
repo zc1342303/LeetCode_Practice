@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MaxDotProduct {
     public int maxDotProduct(int[] nums1, int[] nums2) {

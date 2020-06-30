@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class Jump {
     public int jump(int[] nums) {

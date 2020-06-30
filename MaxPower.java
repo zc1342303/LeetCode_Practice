@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MaxPower {
     public int maxPower(String s) {

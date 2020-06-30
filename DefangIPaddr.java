@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class DefangIPaddr {
     public String defangIPaddr(String address) {

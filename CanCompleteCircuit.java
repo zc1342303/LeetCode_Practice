@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class CanCompleteCircuit {
     public int canCompleteCircuit(int[] gas, int[] cost) {

@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class IsSubStructure {
     public boolean isSubStructure(TreeNode A, TreeNode B) {

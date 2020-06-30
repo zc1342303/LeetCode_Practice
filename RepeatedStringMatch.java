@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class RepeatedStringMatch {
     public int repeatedStringMatch(String A, String B) {

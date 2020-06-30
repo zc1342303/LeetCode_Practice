@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class Rob {
     public int rob(int[] nums) {

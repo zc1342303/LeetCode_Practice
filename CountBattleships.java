@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class CountBattleships {
     public int countBattleships(char[][] board) {

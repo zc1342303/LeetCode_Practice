@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class SumNums {
     public int sumNums(int n) {

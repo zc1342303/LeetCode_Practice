@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class DecodeString {
     public String decodeString(String s) {

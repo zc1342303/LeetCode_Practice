@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class SubarraysDivByK {
     public int subarraysDivByK(int[] A, int K) {

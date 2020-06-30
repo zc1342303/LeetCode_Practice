@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class MergeTwoLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

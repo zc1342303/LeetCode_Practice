@@ -1,4 +1,4 @@
-package practice;
+package leetcode;
 
 public class GoodNodes {
     int res = 0;
